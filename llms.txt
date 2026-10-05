@@ -1,0 +1,29 @@
+# A2ZBest
+
+A2ZBest is an independent product buying-guide website focused on helping shoppers compare products quickly using practical use cases, specifications, trade-offs, warranty information, customer-rating evidence, and clear BUY IF / SKIP IF recommendations.
+
+Website: https://a2zbest.com/
+
+## Primary categories
+- Air Fryers: https://a2zbest.com/in/home-kitchen/air-fryers/
+- Coffee Makers: https://a2zbest.com/in/home-kitchen/coffee-makers/
+- Home & Kitchen: https://a2zbest.com/in/home-kitchen/
+
+## Editorial methodology
+https://a2zbest.com/guides/how-we-compare-products/
+
+## Key guides
+- Air fryer size for family: https://a2zbest.com/guides/air-fryer-size-for-family/
+- Air fryer vs OTG: https://a2zbest.com/guides/air-fryer-vs-otg/
+- No Cost EMI explained: https://a2zbest.com/guides/no-cost-emi-explained/
+
+## About and transparency
+- About: https://a2zbest.com/about/
+- Affiliate disclosure: https://a2zbest.com/affiliate-disclosure/
+- Privacy: https://a2zbest.com/privacy/
+- Terms: https://a2zbest.com/terms/
+
+## Content notes
+A2ZBest publishes research-based editorial comparisons. We do not claim hands-on testing unless a page explicitly says a product was physically tested. Retailer prices, ratings, review counts, availability, warranty terms and seller conditions may change, so current retailer/manufacturer pages remain the final source of truth.
+
+A2ZBest may earn commissions from qualifying Amazon purchases at no extra cost to the visitor.
