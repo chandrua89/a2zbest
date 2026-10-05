@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url><loc>https://a2zbest.com/</loc><lastmod>2026-10-05</lastmod><priority>1.0</priority></url>
 <url><loc>https://a2zbest.com/in/home-kitchen/</loc><lastmod>2026-10-05</lastmod><priority>0.9</priority></url>
-<url><loc>https://a2zbest.com/in/home-kitchen/air-fryers/</loc><lastmod>2026-10-05</lastmod><priority>0.9</priority></url>
-<url><loc>https://a2zbest.com/in/home-kitchen/coffee-makers/</loc><lastmod>2026-10-05</lastmod><priority>0.9</priority></url>
+<url><loc>https://a2zbest.com/in/home-kitchen/air-fryers/</loc><lastmod>2026-10-05</lastmod><priority>0.9</priority><image:image><image:loc>https://a2zbest.com/assets/coverpage/airfryer-coverpage.png</image:loc><image:title>How an air fryer works - A2ZBest</image:title><image:caption>Exploded engineering view used in the A2ZBest guide to the best air fryers in India.</image:caption></image:image></url>
+<url><loc>https://a2zbest.com/in/home-kitchen/coffee-makers/</loc><lastmod>2026-10-05</lastmod><priority>0.9</priority><image:image><image:loc>https://a2zbest.com/assets/coverpage/coffee-maker-coverpage.png</image:loc><image:title>How a coffee maker works - A2ZBest</image:title><image:caption>Engineering mechanism used in the A2ZBest guide to the best coffee makers in India.</image:caption></image:image></url>
 <url><loc>https://a2zbest.com/in/home-kitchen/air-fryers/philips-hd9252-90/</loc><lastmod>2026-10-04</lastmod></url>
 <url><loc>https://a2zbest.com/in/home-kitchen/air-fryers/philips-na120-00/</loc><lastmod>2026-10-04</lastmod></url>
 <url><loc>https://a2zbest.com/in/home-kitchen/air-fryers/philips-na130-00/</loc><lastmod>2026-10-04</lastmod></url>
@@ -15,7 +15,7 @@
 <url><loc>https://a2zbest.com/guides/air-fryer-size-for-family/</loc><lastmod>2026-10-04</lastmod></url>
 <url><loc>https://a2zbest.com/guides/air-fryer-vs-otg/</loc><lastmod>2026-10-04</lastmod></url>
 <url><loc>https://a2zbest.com/guides/no-cost-emi-explained/</loc><lastmod>2026-10-04</lastmod></url>
-<url><loc>https://a2zbest.com/guides/how-we-compare-products/</loc><lastmod>2026-10-04</lastmod></url>
+<url><loc>https://a2zbest.com/guides/how-we-compare-products/</loc><lastmod>2026-10-05</lastmod></url>
 <url><loc>https://a2zbest.com/about/</loc><lastmod>2026-10-04</lastmod></url>
 <url><loc>https://a2zbest.com/contact/</loc><lastmod>2026-10-04</lastmod></url>
 <url><loc>https://a2zbest.com/privacy/</loc><lastmod>2026-10-04</lastmod></url>
